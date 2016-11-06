@@ -1,4 +1,4 @@
-%Semnal sinusoidal redresat dubl? alternan??
+%Semnal sinusoidal redresat dubla alternanta
 %Perioada semnalului sinusoidal neredresat: 4 s.
 %Amplitudine: 1.5.
 
