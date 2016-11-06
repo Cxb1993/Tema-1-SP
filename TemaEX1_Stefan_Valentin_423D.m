@@ -14,7 +14,7 @@ s(find(s < 0)) = -1;
 figure(1)
 plot(t,s)
 axis([0 2 -1 1]),grid
-xlabel('Timp [s]'),ylabel('Amplitudine'),grid
+xlabel('Timp [s]'),ylabel('Amplitudine')
 
 
 %Pentru rezolutie temporara 20ms
@@ -27,7 +27,7 @@ s(find(s < 0)) = -1;
 figure(2)
 plot(t,s)
 axis([0 2 -1 1]),grid
-xlabel('Timp [s]'),ylabel('Amplitudine'),grid
+xlabel('Timp [s]'),ylabel('Amplitudine')
 
 %Pentru rezolutie temporara 200ms
 
@@ -39,4 +39,4 @@ s(find(s < 0)) = -1;
 figure(3)
 plot(t,s)
 axis([0 2 -1 1]),grid
-xlabel('Timp [s]'),ylabel('Amplitudine'),grid
+xlabel('Timp [s]'),ylabel('Amplitudine')
